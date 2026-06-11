@@ -181,27 +181,10 @@ plotly
 wordcloud
 ```
 
----
-
-## ✅ Evaluation Checklist
-
-- [x] GitHub repository — public
-- [x] Proper `README.md` with full workflow explanation
-- [x] Clean modular Python code (PEP8 compliant)
-- [x] Standalone preprocessing script (`preprocess.py`)
-- [x] TF-IDF + Cosine Similarity recommendation engine
-- [x] Streamlit app — 4 tabs with full visualizations
-- [x] Adaptive light/dark UI theme
-- [x] Works on Windows / Mac / Linux (portable)
-- [ ] Demo video posted on LinkedIn
-
----
 
 ## 👨‍💻 Author
 
-**Vignesh R K**  
-Researcher, Centre for Post Harvest Technology  
-Tamil Nadu Agricultural University (TNAU), Coimbatore  
+**Vignesh R K**    
 GUVI Data Science Program — Capstone Project 4
 
 ---
